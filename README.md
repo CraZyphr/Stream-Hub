@@ -38,7 +38,7 @@ npm install
 npx create-react-app ./
 
 Configuration
-You have to replace the src folder from the <https://github.com/CraZyphr/Stream-Hub.git> into the file after  npx create-react-app ./ complets running.
+You have to replace the items in the src folder with the itemson <https://github.com/CraZyphr/Stream-Hub.git> into the file after  npx create-react-app ./ complets running.
 
 Running the Development Server
 Run the development server to view the project locally.
