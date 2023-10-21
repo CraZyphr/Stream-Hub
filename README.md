@@ -12,7 +12,6 @@ Welcome to the Movie Streaming Web App project! This guide will help you set up 
 - [Running the Development Server](#running-the-development-server)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
