@@ -54,6 +54,5 @@ Explore the movie streaming web app, search for movies, and enjoy streaming your
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow our Contribution Guidelines. We value your input and appreciate your help in making this project better.
 
-
 Acknowledgments
 Special thanks to all contributors who will help to create and improve this project. Your efforts are greatly appreciated.
